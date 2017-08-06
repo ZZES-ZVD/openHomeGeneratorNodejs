@@ -1,0 +1,2 @@
+# openHomeGeneratorNodejs
+中国移动家庭能力开放平台Authorization生成器 nodejs版
